@@ -1,0 +1,11 @@
+input:focus {
+    box-shadow: none !important;
+}
+
+.bg-warn {
+    background: rgb(255, 225, 225);
+}
+
+.meal-edit {
+    cursor: pointer;
+}
